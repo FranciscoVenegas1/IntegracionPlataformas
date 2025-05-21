@@ -1,0 +1,46 @@
+{
+  "productos": [
+    {
+      "Código del producto": "MAN-001",
+      "Categoría": "Herramientas Manuales",
+      "Subcategoría": "Martillos",
+      "Marca": "Stanley",
+      "Código": "STN-12345",
+      "Nombre": "Martillo de carpintero 16oz",
+      "Precio": [
+        {
+          "Fecha": "2024-05-20T00:00:00.000Z",
+          "Valor": 8990.0
+        }
+      ]
+    },
+    {
+      "Código del producto": "ELE-002",
+      "Categoría": "Herramientas Eléctricas",
+      "Subcategoría": "Taladros",
+      "Marca": "Bosch",
+      "Código": "BOS-67890",
+      "Nombre": "Taladro Percutor Bosch 650W",
+      "Precio": [
+        {
+          "Fecha": "2024-05-18T00:00:00.000Z",
+          "Valor": 45990.0
+        }
+      ]
+    },
+    {
+      "Código del producto": "SEG-003",
+      "Categoría": "Equipos de Seguridad",
+      "Subcategoría": "Guantes",
+      "Marca": "3M",
+      "Código": "3M-55661",
+      "Nombre": "Guantes de seguridad anticorte",
+      "Precio": [
+        {
+          "Fecha": "2024-05-15T00:00:00.000Z",
+          "Valor": 5990.0
+        }
+      ]
+    }
+  ]
+}
